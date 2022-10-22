@@ -6,9 +6,6 @@
 >### Dominar as principais tecnologias e entrar mais rápido nas empresas mais desejadas.
 
 
-## [Certificados](https://github.com/rafahrochacorreia/DIO-Digital-Innovation-One/tree/main/Certificados)
-
-
 
 ## BootCamps
 
